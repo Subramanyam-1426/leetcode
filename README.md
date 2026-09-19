@@ -22,5 +22,14 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Subramanyam-1426/leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Subramanyam-1426/leetcode/tree/master/0010-regular-expression-matching) |
 | [1922-count-good-numbers](https://github.com/Subramanyam-1426/leetcode/tree/master/1922-count-good-numbers) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Subramanyam-1426/leetcode/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Subramanyam-1426/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
