@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Subramanyam-1426/leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Subramanyam-1426/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Subramanyam-1426/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Subramanyam-1426/leetcode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Subramanyam-1426/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [1922-count-good-numbers](https://github.com/Subramanyam-1426/leetcode/tree/master/1922-count-good-numbers) |
 ## String
 |  |
