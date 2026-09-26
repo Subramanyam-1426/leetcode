@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subramanyam-1426/leetcode/tree/master/0001-two-sum) |
+| [0079-word-search](https://github.com/Subramanyam-1426/leetcode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subramanyam-1426/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Subramanyam-1426/leetcode/tree/master/0010-regular-expression-matching) |
+| [0079-word-search](https://github.com/Subramanyam-1426/leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,4 +42,16 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subramanyam-1426/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Subramanyam-1426/leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Subramanyam-1426/leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Subramanyam-1426/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
