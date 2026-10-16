@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subramanyam-1426/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Subramanyam-1426/leetcode/tree/master/0027-remove-element) |
 | [0079-word-search](https://github.com/Subramanyam-1426/leetcode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Subramanyam-1426/leetcode/tree/master/0079-word-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Subramanyam-1426/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
