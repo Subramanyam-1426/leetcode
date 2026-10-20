@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Subramanyam-1426/leetcode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Subramanyam-1426/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1922-count-good-numbers](https://github.com/Subramanyam-1426/leetcode/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -29,6 +30,7 @@
 | [0002-add-two-numbers](https://github.com/Subramanyam-1426/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Subramanyam-1426/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Subramanyam-1426/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Subramanyam-1426/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1922-count-good-numbers](https://github.com/Subramanyam-1426/leetcode/tree/master/1922-count-good-numbers) |
 ## String
 |  |
@@ -36,10 +38,12 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subramanyam-1426/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Subramanyam-1426/leetcode/tree/master/0010-regular-expression-matching) |
 | [0079-word-search](https://github.com/Subramanyam-1426/leetcode/tree/master/0079-word-search) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Subramanyam-1426/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Subramanyam-1426/leetcode/tree/master/0010-regular-expression-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Subramanyam-1426/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,4 +72,12 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subramanyam-1426/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Subramanyam-1426/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Subramanyam-1426/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
