@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Subramanyam-1426/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Subramanyam-1426/leetcode/tree/master/0007-reverse-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Subramanyam-1426/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1922-count-good-numbers](https://github.com/Subramanyam-1426/leetcode/tree/master/1922-count-good-numbers) |
 ## Recursion
