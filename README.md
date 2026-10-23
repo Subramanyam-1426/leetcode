@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Subramanyam-1426/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0079-word-search](https://github.com/Subramanyam-1426/leetcode/tree/master/0079-word-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subramanyam-1426/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Subramanyam-1426/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Subramanyam-1426/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Subramanyam-1426/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
