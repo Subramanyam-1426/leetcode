@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Subramanyam-1426/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Subramanyam-1426/leetcode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Subramanyam-1426/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0079-word-search](https://github.com/Subramanyam-1426/leetcode/tree/master/0079-word-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subramanyam-1426/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -68,6 +69,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Subramanyam-1426/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subramanyam-1426/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
